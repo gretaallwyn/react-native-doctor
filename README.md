@@ -1,24 +1,49 @@
 # React Native Doctor
 
-A professional website for **React Native Doctor** – helping businesses fix, maintain, upgrade, and support existing React Native applications.
+A professional website for **React Native Doctor** – helping businesses fix, maintain, upgrade, and support existing React Native applications or build a new one from scratch.
+
 
 ## Overview
 
-React Native Doctor is focused on solving real-world problems in production mobile applications rather than building apps from scratch.
+I help businesses rescue broken React Native apps, modernise outdated mobile projects, and build production-ready iOS and Android apps with clean code, reliable integrations, and app store support.
+
 
 Services include:
 
-* Bug fixing and troubleshooting
-* Expo and React Native upgrades
-* Push notifications
-* Stripe and payment integrations
-* REST and GraphQL APIs
-* Third-party integrations
-* App Store and Play Store release support
-* Performance improvements
-* Full-stack collaboration and backend integration
-* Short-term support and maintenance
+## Fix Existing Apps
 
+  For apps that are broken, unstable, unfinished, or difficult to maintain.
+  
+  * Crash and bug fixing
+  * Build and dependency errors
+  * React Native / Expo upgrades
+  * Navigation and UI issues
+  * API integration problems
+  * App Store / Play Store issues
+
+## Build New Apps
+
+  For founders and businesses who need a working mobile app from idea to launch.
+  
+  * React Native and Expo apps
+  * Authentication and user flows
+  * Dashboards and forms
+  * Payments and subscriptions
+  * Push notifications
+  * Production-ready release support
+
+## Modernise Legacy Apps
+
+  For older apps that need upgrading, cleanup, or new features.
+  
+  * outdated package upgrades
+  * Code refactoring
+  * Performance improvements
+  * Technical debt reduction
+  * Feature enhancements
+  * Long-term maintainability
+
+  
 ## Demo Projects
 
 ### LoungeLinked
